@@ -5,5 +5,5 @@ package com.byx.xiuxiu.mygitdemo;
  */
 
 public class Massage {
-
+    private  String name ;
 }
