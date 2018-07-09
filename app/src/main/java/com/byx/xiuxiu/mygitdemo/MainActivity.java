@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
     private void initView() {
         tv = (TextView) findViewById(R.id.tv);
         tv.setText("搭顺风车");
+        tv.setText("上都夫人");
     }
 }
